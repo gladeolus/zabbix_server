@@ -1,2 +1,0 @@
-prod-ark-k8s.apptimizm.pro
-api-prod-ark-k8s.apptimizm.pro
